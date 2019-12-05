@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Aimibot
+Comment=Aimibot
+Exec=/home/ly/桌面/output/educationRobot
+Icon=/home/ly/桌面/output/Aimibot.png
+Terminal=false
+Type=Application
+Categories=Application;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.22
